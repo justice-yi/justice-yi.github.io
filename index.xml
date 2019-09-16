@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 20:55:17 +0800</lastBuildDate>
     
 	<atom:link href="https://justice-yi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>我来了</title>
+      <link>https://justice-yi.github.io/posts/1/</link>
+      <pubDate>Mon, 16 Sep 2019 20:55:17 +0800</pubDate>
+      
+      <guid>https://justice-yi.github.io/posts/1/</guid>
+      <description>啦啦啦</description>
+    </item>
     
     <item>
       <title>About Me</title>
