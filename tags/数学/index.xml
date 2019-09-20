@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数学 on Justice-yi &#39;s Blog</title>
+    <link>https://justice-yi.github.io/tags/%E6%95%B0%E5%AD%A6/</link>
+    <description>Recent content in 数学 on Justice-yi &#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 16 Sep 2019 20:55:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://justice-yi.github.io/tags/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>两种数学归纳法</title>
+      <link>https://justice-yi.github.io/posts/%E4%B8%A4%E7%A7%8D%E6%95%B0%E5%AD%A6%E5%BD%92%E7%BA%B3%E6%B3%95/</link>
+      <pubDate>Mon, 16 Sep 2019 20:55:17 +0800</pubDate>
+      
+      <guid>https://justice-yi.github.io/posts/%E4%B8%A4%E7%A7%8D%E6%95%B0%E5%AD%A6%E5%BD%92%E7%BA%B3%E6%B3%95/</guid>
+      <description>第一类数学归纳法 1. 证明n=1时，fn命题成立； 2. 设n=k时，fn命题成立 3. 证明n=k+1时，fn命题成立 4. 原命题得证
+第二类数学归纳法 1. 证明n=1，n=2时，fn命题成立 2. 设n &amp;lt; k时，fn命题成立 3. 证明n=k时，fn命题成立 4. 原命题得证</description>
+    </item>
+    
+  </channel>
+</rss>
