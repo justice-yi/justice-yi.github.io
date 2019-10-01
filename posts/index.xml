@@ -25,7 +25,7 @@ git add. //添加内容到本地仓库 git commit -m &amp;#34;提交的信息&am
 
 <hr />
 
-<h1 id="更新内容后如何git一git">更新内容后如何git一git？</h1>
+<h2 id="更新内容后如何git一git">更新内容后如何git一git？</h2>
 
 <ul>
 <li><p>在<a href="https://www.gohugo.org/">hugo</a>(基于你使用的平台，不限于hugo)根目录下：</p>
