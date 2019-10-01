@@ -3,18 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://justice-yi.github.io/tags/git/</loc>
+    <lastmod>2019-10-02T01:26:11+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://justice-yi.github.io/</loc>
-    <lastmod>2019-09-16T20:55:17+08:00</lastmod>
+    <lastmod>2019-10-02T01:26:11+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://justice-yi.github.io/posts/</loc>
-    <lastmod>2019-09-16T20:55:17+08:00</lastmod>
+    <lastmod>2019-10-02T01:26:11+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://justice-yi.github.io/tags/</loc>
-    <lastmod>2019-09-16T20:55:17+08:00</lastmod>
+    <lastmod>2019-10-02T01:26:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justice-yi.github.io/posts/%E6%9B%B4%E6%96%B0%E6%96%87%E7%AB%A0%E5%90%8Egit%E7%9A%84%E4%BD%BF%E7%94%A8%E6%AD%A5%E9%AA%A4/</loc>
+    <lastmod>2019-10-02T01:26:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justice-yi.github.io/about-me/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -25,11 +40,6 @@
   <url>
     <loc>https://justice-yi.github.io/tags/%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2019-09-16T20:55:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://justice-yi.github.io/about-me/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
