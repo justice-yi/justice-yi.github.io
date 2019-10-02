@@ -18,7 +18,7 @@
       <pubDate>Wed, 02 Oct 2019 01:26:11 +0800</pubDate>
       
       <guid>https://justice-yi.github.io/posts/%E6%9B%B4%E6%96%B0%E6%96%87%E7%AB%A0%E5%90%8Egit%E7%9A%84%E4%BD%BF%E7%94%A8%E6%AD%A5%E9%AA%A4/</guid>
-      <description>自从知道了很简单就可以搭建个人博客之后就一直在捣鼓git，看了一些视频无奈没有时间深入学习git的工作方式，只是大概学习了一下一些命令来满足我发博客的需求。期间因为不懂得git的工作方式而前前后后踩坑无数，现记录一些步骤和命令。
+      <description>&amp;emsp;自从知道了很简单就可以搭建个人博客之后就一直在捣鼓git，看了一些视频无奈没有时间深入学习git的工作方式，只是大概学习了一下一些命令来满足我发博客的需求。期间因为不懂得git的工作方式而前前后后踩坑无数，现记录一些步骤和命令。
 更新内容后如何git一git？  在hugo(基于你使用的平台，不限于hugo)根目录下：
 hugo //为你的hugo重新生成文件 hugo server //如果需要的话可以本地预览 在public文件夹下：
 git add. //添加内容到本地仓库 git commit -m &amp;#34;提交的信息&amp;#34; //为更新添加更新的信息告诉别人你做了什么更新 git pull origin master //拉取 git push -u origin master //推上去  以上一切基于hugo网站已经搭建完成的情况，更多的搭建方法可以上hugo或者B站学习</description>
