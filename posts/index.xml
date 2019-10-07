@@ -6,8 +6,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cmn-Hans</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Wed, 02 Oct 2019 01:26:11 +0800</lastBuildDate>
+		<lastBuildDate>Mon, 07 Oct 2019 14:10:20 +0800</lastBuildDate>
 		<atom:link href="https://justice-yi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test</title>
+			<link>https://justice-yi.github.io/posts/test/</link>
+			<pubDate>Mon, 07 Oct 2019 14:10:20 +0800</pubDate>
+			
+			<guid>https://justice-yi.github.io/posts/test/</guid>
+			<description>文件</description>
+			<content type="html"><![CDATA[<p><img src="动图.gif" alt="dongtu" />
+<img src="狗.gif" alt="gou" /></p>
+
+<p><a href="716.exe">文件</a></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>更新文章后git的使用步骤</title>
@@ -49,23 +63,35 @@ git push -u origin master      //推上去</code></pre></div></li>
 			<pubDate>Mon, 16 Sep 2019 20:55:17 +0800</pubDate>
 			
 			<guid>https://justice-yi.github.io/posts/%E4%B8%A4%E7%A7%8D%E6%95%B0%E5%AD%A6%E5%BD%92%E7%BA%B3%E6%B3%95/</guid>
-			<description>第一类数学归纳法 1. 证明n=1时，fn命题成立； 2. 设n=k时，fn命题成立 3. 证明n=k+1时，fn命题成立 4. 原命题得证
-第二类数学归纳法 1. 证明n=1，n=2时，fn命题成立 2. 设n &amp;lt; k时，fn命题成立 3. 证明n=k时，fn命题成立 4. 原命题得证</description>
+			<description>第一类数学归纳法 1. 证明n=1时，fn命题成立
+2. 设n=k时，fn命题成立
+3. 证明n=k+1时，fn命题成立
+4. 原命题得证
+第二类数学归纳法 1. 证明n=1，n=2时，fn命题成立
+2. 设n &amp;lt; k时，fn命题成立
+3. 证明n=k时，fn命题成立
+4. 原命题得证</description>
 			<content type="html"><![CDATA[
 
 <h2 id="第一类数学归纳法">第一类数学归纳法</h2>
 
-<p><strong>1. 证明n=1时，fn命题成立；</strong></br>
- <strong>2. 设n=k时，fn命题成立</strong></br>
- <strong>3. 证明n=k+1时，fn命题成立</strong></br>
- <strong>4. 原命题得证</strong></br></p>
+<p><strong>1. 证明n=1时，fn命题成立</strong></p>
+
+<p><strong>2. 设n=k时，fn命题成立</strong></p>
+
+<p><strong>3. 证明n=k+1时，fn命题成立</strong></p>
+
+<p><strong>4. 原命题得证</strong></p>
 
 <h2 id="第二类数学归纳法">第二类数学归纳法</h2>
 
-<p><strong>1. 证明n=1，n=2时，fn命题成立</strong></br>
- <strong>2. 设n &lt; k时，fn命题成立</strong></br>
- <strong>3. 证明n=k时，fn命题成立</strong></br>
- <strong>4. 原命题得证</strong></p>
+<p><strong>1. 证明n=1，n=2时，fn命题成立</strong></p>
+
+<p><strong>2. 设n &lt; k时，fn命题成立</strong></p>
+
+<p><strong>3. 证明n=k时，fn命题成立</strong></p>
+
+<p><strong>4. 原命题得证</strong></p>
 ]]></content>
 		</item>
 		
