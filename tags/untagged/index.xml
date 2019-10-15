@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 07 Oct 2019 14:10:20 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 14:48:46 +0800</lastBuildDate>
     
 	<atom:link href="https://justice-yi.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>https://justice-yi.github.io/posts/test/</link>
-      <pubDate>Mon, 07 Oct 2019 14:10:20 +0800</pubDate>
+      <title>Kk</title>
+      <link>https://justice-yi.github.io/posts/kk/</link>
+      <pubDate>Thu, 10 Oct 2019 14:48:46 +0800</pubDate>
       
-      <guid>https://justice-yi.github.io/posts/test/</guid>
-      <description>文件</description>
+      <guid>https://justice-yi.github.io/posts/kk/</guid>
+      <description>int a; a=1000 int *p; p=&amp;amp;a; prinf(&amp;#34;a=%d&amp;#34;,*p);</description>
     </item>
     
   </channel>
