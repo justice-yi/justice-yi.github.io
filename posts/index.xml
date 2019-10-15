@@ -10,7 +10,7 @@
 		<atom:link href="https://justice-yi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Fopen Fclose</title>
+			<title>C语言：标准IO_fopen( )、fclose() ①</title>
 			<link>https://justice-yi.github.io/posts/fopen-fclose/</link>
 			<pubDate>Wed, 16 Oct 2019 00:31:55 +0800</pubDate>
 			
