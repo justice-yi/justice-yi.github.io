@@ -7,18 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 10 Oct 2019 14:48:46 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2019 03:00:35 +0800</lastBuildDate>
     
 	<atom:link href="https://justice-yi.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Kk</title>
-      <link>https://justice-yi.github.io/posts/kk/</link>
-      <pubDate>Thu, 10 Oct 2019 14:48:46 +0800</pubDate>
+      <title>3</title>
+      <link>https://justice-yi.github.io/posts/3/</link>
+      <pubDate>Sun, 20 Oct 2019 03:00:35 +0800</pubDate>
       
-      <guid>https://justice-yi.github.io/posts/kk/</guid>
-      <description>int a; a=1000 int *p; p=&amp;amp;a; prinf(&amp;#34;a=%d&amp;#34;,*p);</description>
+      <guid>https://justice-yi.github.io/posts/3/</guid>
+      <description>When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are:
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$</description>
     </item>
     
   </channel>
