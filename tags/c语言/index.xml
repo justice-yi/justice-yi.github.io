@@ -27,7 +27,7 @@
 
 &amp;nbsp;
 1.1&amp;nbsp; 文件的两种形式 在C程序看来，文件只有两种形式。
- 文本文件 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;二进制文件&amp;nbsp;  文本文件即里面的数据都是字符。&amp;nbsp;字符传化成对应的ASCII码存放在内存中。如&amp;ldquo;ABC&amp;rdquo;就分别是&amp;lsquo;A&amp;rsquo;、&amp;rsquo;B&amp;rsquo;、&amp;rsquo;C&amp;rsquo;存放
+ 文本文件 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;二进制文件&amp;nbsp;  文本文件即里面的数据都是字符。&amp;nbsp;字符传化成对应的ASCII码存放在内存中。如&amp;ldquo;ABC&amp;rdquo;就分别是&amp;lsquo;A&amp;rsquo;、&#39;B&#39;、&#39;C&#39;存放
 二进制文件即里面的数据直接存放在内存中。无需转换为ASCII码，可以理解为机器语言（只有0和1）。例如整数1000转换为二进制为‭0010 0111 0001 0000‬，直接存储在内存中。
 二、利用标准IO操作文件 2.1&amp;nbsp; 标准IO（standard high-level I/0）是什么 标准IOANSI C建立的标准函数包和stdio.h头文件中的定义。通俗的来讲就是一些操作IO的库函数，至于是怎么实现的我也不知道。今天我们来讲三个函数：fopen(),&amp;nbsp; fclose().
 分别对应着打开文件、关闭文件两个功能。

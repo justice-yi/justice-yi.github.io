@@ -24,7 +24,7 @@
 
 &amp;nbsp;
 1.1&amp;nbsp; 文件的两种形式 在C程序看来，文件只有两种形式。
- 文本文件 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;二进制文件&amp;nbsp;  文本文件即里面的数据都是字符。&amp;nbsp;字符传化成对应的ASCII码存放在内存中。如&amp;ldquo;ABC&amp;rdquo;就分别是&amp;lsquo;A&amp;rsquo;、&amp;rsquo;B&amp;rsquo;、&amp;rsquo;C&amp;rsquo;存放
+ 文本文件 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;二进制文件&amp;nbsp;  文本文件即里面的数据都是字符。&amp;nbsp;字符传化成对应的ASCII码存放在内存中。如&amp;ldquo;ABC&amp;rdquo;就分别是&amp;lsquo;A&amp;rsquo;、&#39;B&#39;、&#39;C&#39;存放
 二进制文件即里面的数据直接存放在内存中。无需转换为ASCII码，可以理解为机器语言（只有0和1）。例如整数1000转换为二进制为‭0010 0111 0001 0000‬，直接存储在内存中。
 二、利用标准IO操作文件 2.1&amp;nbsp; 标准IO（standard high-level I/0）是什么 标准IOANSI C建立的标准函数包和stdio.h头文件中的定义。通俗的来讲就是一些操作IO的库函数，至于是怎么实现的我也不知道。今天我们来讲三个函数：fopen(),&amp;nbsp; fclose().
 分别对应着打开文件、关闭文件两个功能。
@@ -64,7 +64,7 @@
 <li><strong><span style="color: #ff6600;">&nbsp; &nbsp; &nbsp; &nbsp;二进制文件&nbsp;</span></strong></li>
 </ul>
 
-<p><span style="color: #ff0000;">文本文件即里面的数据都是字符。&nbsp;<span style="color: #000000;">字符传化成对应的ASCII码存放在内存中。如&ldquo;ABC&rdquo;就分别是&lsquo;A&rsquo;、&rsquo;B&rsquo;、&rsquo;C&rsquo;存放</span></span></p>
+<p><span style="color: #ff0000;">文本文件即里面的数据都是字符。&nbsp;<span style="color: #000000;">字符传化成对应的ASCII码存放在内存中。如&ldquo;ABC&rdquo;就分别是&lsquo;A&rsquo;、'B'、'C'存放</span></span></p>
 
 <p><span style="color: #ff0000;">二进制文件即里面的数据直接存放在内存中。<span style="color: #000000;">无需转换为ASCII码，可以理解为机器语言（只有0和1）。例如整数1000转换为二进制为‭0010 0111 0001 0000‬，直接存储在内存中。</span></span></p>
 
@@ -192,7 +192,7 @@
 
 <p><strong><span style="color: #ff0000;">上述打开的都是文本本件</span></strong></p>
 
-<p><strong><span style="color: #ff0000;">此外还有&rdquo;rb&rdquo;, &ldquo;wb&rdquo;, &ldquo;ab&rdquo;, &ldquo;r+b&rdquo;, &ldquo;w+b&rdquo;, &ldquo;a+b&rdquo;，此时打开二进制文件。</span></strong></p>
+<p><strong><span style="color: #ff0000;">此外还有&quot;rb&quot;, &quot;wb&quot;, &quot;ab&quot;, &quot;r+b&quot;, &quot;w+b&quot;, &quot;a+b&quot;，此时打开二进制文件。</span></strong></p>
 
 <p><strong><span style="color: #ff0000;">path 参数可以是相对路径（../fishc.txt）也可以是绝对路径（/home/FishC/fishc.txt），如果只给出文件名而不包含路径，则表示该文件在当前文件夹中</span></strong></p>
 

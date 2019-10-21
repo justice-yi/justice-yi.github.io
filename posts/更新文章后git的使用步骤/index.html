@@ -37,7 +37,42 @@ git add. //添加内容到本地仓库 git commit -m &#34;提交的信息&#34; /
 hugo //为你的hugo重新生成文件 hugo server //如果需要的话可以本地预览 在public文件夹下：
 git add. //添加内容到本地仓库 git commit -m &#34;提交的信息&#34; //为更新添加更新的信息告诉别人你做了什么更新 git pull origin master //拉取 git push -u origin master //推上去  以上一切基于hugo网站已经搭建完成的情况，更多的搭建方法可以上hugo或者B站学习"/>
 
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+	<script type="text/javascript"
+        async
+        src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[\[','\]\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+
+MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+
+<style>
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #C6F43B;
+}
+</style>	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 	<link rel="manifest" href="/site.webmanifest">
@@ -151,41 +186,7 @@ git push -u origin master      //推上去</code></pre></div></li>
 		</p>
 	</footer>
 
-	<script type="text/javascript"
-	async
-	src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-MathJax.Hub.Config({
-tex2jax: {
-inlineMath: [['$','$'], ['\\(','\\)']],
-displayMath: [['$$','$$'], ['\[\[','\]\]']],
-processEscapes: true,
-processEnvironments: true,
-skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-TeX: { equationNumbers: { autoNumber: "AMS" },
-	 extensions: ["AMSmath.js", "AMSsymbols.js"] }
-}
-});
 
-MathJax.Hub.Queue(function() {
-
-
-
-var all = MathJax.Hub.getAllJax(), i;
-for(i = 0; i < all.length; i += 1) {
-	all[i].SourceElement().parentNode.className += ' has-jax';
-}
-});
-</script>
-
-<style>
-code.has-jax {
-font: inherit;
-font-size: 100%;
-background: inherit;
-border: inherit;
-color: #515151;
-}
-</style>
 
 
 	<script src="https://justice-yi.github.io/js/bundle.min.4a9a0ac3d2217822c7865b4161e6c2a71de1d70492264337755427898dd718f6.js" integrity="sha256-SpoKw9IheCLHhltBYebCpx3h1wSSJkM3dVQniY3XGPY=" crossorigin="anonymous"></script>
