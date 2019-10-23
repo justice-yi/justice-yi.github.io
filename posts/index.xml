@@ -6,8 +6,19 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cmn-Hans</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Wed, 16 Oct 2019 00:31:55 +0800</lastBuildDate>
+		<lastBuildDate>Wed, 23 Oct 2019 02:22:41 +0800</lastBuildDate>
 		<atom:link href="https://justice-yi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>2</title>
+			<link>https://justice-yi.github.io/posts/2/</link>
+			<pubDate>Wed, 23 Oct 2019 02:22:41 +0800</pubDate>
+			
+			<guid>https://justice-yi.github.io/posts/2/</guid>
+			<description> </description>
+			<content type="html"><![CDATA[<iframe width="100%" height="600" src="http://code.hcharts.cn/demos/hhhhDo/share/result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+]]></content>
+		</item>
 		
 		<item>
 			<title>C语言：标准IO_fopen( )、fclose() ①</title>
